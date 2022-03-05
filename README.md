@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 <!-- QUADRO DE STATUS -->
 <div align="center"><br>
   <a href="https://github.com/gersonconcilio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonconcilio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonconcilio&layout=compact&langs_count=7&theme=prussian"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonconcilio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonconcilio&layout=compact&langs_count=7&theme=prussian"/>
 </div><br>
   
   ##
